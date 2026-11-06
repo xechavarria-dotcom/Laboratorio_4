@@ -1,0 +1,21 @@
+﻿
+================ ANALISIS DE LAS PRUEBAS ================
+Arbol con 10000 puntos, altura 8.
+
+1. Radio de 500 m alrededor de (5000, 5000):
+   arbol: 69 puntos | fuerza bruta: 69 puntos
+   Mismos puntos: True
+   El mas cercano dentro del radio esta a 31.6 m y el mas lejano a 488.2 m (menor a 500).
+
+2. Los 5 vecinos mas cercanos a (3200, 7100):
+   1. (3226.6, 7093.3) a 27.4 m
+   2. (3173.3, 7126.8) a 37.8 m
+   3. (3150.7, 7088.8) a 50.5 m
+   4. (3163.8, 7156.7) a 67.2 m
+   5. (3236.5, 7040.5) a 69.8 m
+   Iguales a fuerza bruta: True
+
+Conclusion: en todas las pruebas el arbol da exactamente las
+mismas respuestas que la fuerza bruta, en 2D, 3D y 4D, incluso
+en casos especiales (radio 0, fuera del mapa, puntos repetidos).
+Graficas guardadas en 'graficas/'

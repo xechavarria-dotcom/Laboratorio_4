@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Mostrar análisis en terminal",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"analisis.py"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		}
+	]
+}
