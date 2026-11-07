@@ -114,9 +114,10 @@ Declaro que este laboratorio se realizó con apoyo de inteligencia artificial (C
 
 **Cómo usé la IA:**
 - Para entender el problema y el funcionamiento del Quadtree.
-- Para ayudarme a escribir el codigo de las pruebas y el análisis. La función en la que más me apoyé en el codigo del arbol fue en la de el ejemplo y en la de `buscar_cercanos`.
+- Para ayudarme a escribir el codigo de las pruebas y el análisis. La función en la que más me apoyé en el codigo del arbol fue en la de el Ejemplo rápido y en la de `buscar_cercanos`.
 - Para escribir los comentarios del código de forma más técnica y entendible.
 - GitHub Copilot se usó para ejecutar los scripts y guardar su salida en `resultados_pruebas.txt` y `resultados_analisis.txt`.
+- Me apoye para hacer el README.md y que me quedara bien organizado.
 
 No se copió código de soluciones publicadas en internet. Todos los resultados reportados se obtuvieron en mi computador.
 
